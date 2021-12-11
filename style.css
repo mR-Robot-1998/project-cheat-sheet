@@ -1,0 +1,50 @@
+body{
+    background-color: bisque;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    color: gold;
+}
+.sec1{
+     margin-left:500px ;
+}
+.tb1{
+   border: 3px gold solid; 
+}
+.tb1 th,td{
+    border: 1px gold solid;
+}
+.tr-1 th{
+    background-color: gold;
+}
+.tbody-1 tr > th{
+    background-color: gold;
+}
+.tbody-1 th {
+    font-family: monospace;
+    background-color: gold;
+    opacity: 0.5;
+}
+    .sec2{
+        margin-left:500px ;
+    }
+
+.tb2{
+    border: 3px gold solid; 
+ }
+ .tb2 th,td{
+     border: 1px gold solid;
+ }
+ .tr-2 th{
+     background-color: gold;
+ }
+ .tbody-2 th {
+     font-family: monospace;
+     background-color: gold;
+     opacity: 0.5;
+ }
+ 
+ 
